@@ -971,7 +971,6 @@ body, td, th, input, button {
   right: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   position: fixed;
-  display: flex;
   flex-wrap: wrap; }
   .dashboard .dashboard-nav {
     background: #eee;
